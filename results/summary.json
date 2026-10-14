@@ -1,0 +1,20 @@
+{
+  "fem_validation": {
+    "heywood_kt": 2.512,
+    "nodes": 31819.0,
+    "kt_element": 2.5995584046648395,
+    "kt_nodal": 2.422154598413251
+  },
+  "screening": {
+    "designs": 240,
+    "spearman": 0.5450995573775889,
+    "fem_best_peak": 307.5901873086662,
+    "fem_peak_at_gnn_choice": 325.43776132924853,
+    "worst_peak": 605.5394034031632
+  },
+  "timing_ms": {
+    "Meshing": 0.7522814999560978,
+    "FEM assembly + solve": 4.856628500021998,
+    "GNN inference": 14.481856500026424
+  }
+}

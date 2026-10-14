@@ -1,0 +1,601 @@
+split,model,design,field_error,peak_true,peak_pred,peak_error
+Test (1–2 holes),Beam theory,0,0.31337,422.68066,398.38449,-0.05748
+Test (1–2 holes),GNN (message passing),0,0.17151,422.68066,396.98886,-0.06078
+Test (1–2 holes),Node-wise MLP,0,0.21500,422.68066,404.38263,-0.04329
+Test (1–2 holes),Beam theory,1,0.20630,262.64404,279.58383,0.06450
+Test (1–2 holes),GNN (message passing),1,0.10612,262.64404,264.23090,0.00604
+Test (1–2 holes),Node-wise MLP,1,0.14921,262.64404,261.43689,-0.00460
+Test (1–2 holes),Beam theory,2,0.19551,136.52419,130.88039,-0.04134
+Test (1–2 holes),GNN (message passing),2,0.14747,136.52419,139.94919,0.02509
+Test (1–2 holes),Node-wise MLP,2,0.17252,136.52419,142.55870,0.04420
+Test (1–2 holes),Beam theory,3,0.20868,278.20134,276.01840,-0.00785
+Test (1–2 holes),GNN (message passing),3,0.16099,278.20134,316.24530,0.13675
+Test (1–2 holes),Node-wise MLP,3,0.19205,278.20134,273.31204,-0.01757
+Test (1–2 holes),Beam theory,4,0.27618,227.35317,234.83417,0.03290
+Test (1–2 holes),GNN (message passing),4,0.14162,227.35317,222.97597,-0.01925
+Test (1–2 holes),Node-wise MLP,4,0.19767,227.35317,220.88120,-0.02847
+Test (1–2 holes),Beam theory,5,0.25570,117.04688,114.01897,-0.02587
+Test (1–2 holes),GNN (message passing),5,0.15555,117.04688,114.27808,-0.02366
+Test (1–2 holes),Node-wise MLP,5,0.20946,117.04688,115.47138,-0.01346
+Test (1–2 holes),Beam theory,6,0.24622,125.79883,124.89227,-0.00721
+Test (1–2 holes),GNN (message passing),6,0.14559,125.79883,119.48567,-0.05018
+Test (1–2 holes),Node-wise MLP,6,0.19508,125.79883,115.85938,-0.07901
+Test (1–2 holes),Beam theory,7,0.27389,81.66757,59.02145,-0.27730
+Test (1–2 holes),GNN (message passing),7,0.17464,81.66757,67.78546,-0.16998
+Test (1–2 holes),Node-wise MLP,7,0.22733,81.66757,59.89581,-0.26659
+Test (1–2 holes),Beam theory,8,0.32061,309.08393,284.75510,-0.07871
+Test (1–2 holes),GNN (message passing),8,0.18922,309.08393,291.03296,-0.05840
+Test (1–2 holes),Node-wise MLP,8,0.22270,309.08393,297.74005,-0.03670
+Test (1–2 holes),Beam theory,9,0.22369,194.09295,179.22098,-0.07662
+Test (1–2 holes),GNN (message passing),9,0.15365,194.09295,192.68172,-0.00727
+Test (1–2 holes),Node-wise MLP,9,0.17361,194.09295,195.76653,0.00862
+Test (1–2 holes),Beam theory,10,0.18640,199.25879,185.58681,-0.06861
+Test (1–2 holes),GNN (message passing),10,0.10540,199.25879,196.53401,-0.01367
+Test (1–2 holes),Node-wise MLP,10,0.12380,199.25879,196.56665,-0.01351
+Test (1–2 holes),Beam theory,11,0.12354,462.25464,482.97659,0.04483
+Test (1–2 holes),GNN (message passing),11,0.07155,462.25464,465.91281,0.00791
+Test (1–2 holes),Node-wise MLP,11,0.09676,462.25464,484.22513,0.04753
+Test (1–2 holes),Beam theory,12,0.31527,293.69975,269.38211,-0.08280
+Test (1–2 holes),GNN (message passing),12,0.18194,293.69975,286.96121,-0.02294
+Test (1–2 holes),Node-wise MLP,12,0.22521,293.69975,292.68777,-0.00345
+Test (1–2 holes),Beam theory,13,0.21027,223.82242,217.49750,-0.02826
+Test (1–2 holes),GNN (message passing),13,0.12164,223.82242,215.72519,-0.03618
+Test (1–2 holes),Node-wise MLP,13,0.16366,223.82242,207.65901,-0.07222
+Test (1–2 holes),Beam theory,14,0.11962,327.58573,330.81647,0.00986
+Test (1–2 holes),GNN (message passing),14,0.07372,327.58573,321.65665,-0.01810
+Test (1–2 holes),Node-wise MLP,14,0.11223,327.58573,315.20123,-0.03781
+Test (1–2 holes),Beam theory,15,0.36757,45.10674,38.01378,-0.15725
+Test (1–2 holes),GNN (message passing),15,0.25113,45.10674,42.48972,-0.05802
+Test (1–2 holes),Node-wise MLP,15,0.30008,45.10674,42.15773,-0.06538
+Test (1–2 holes),Beam theory,16,0.26519,159.75897,159.49365,-0.00166
+Test (1–2 holes),GNN (message passing),16,0.15563,159.75897,153.02257,-0.04217
+Test (1–2 holes),Node-wise MLP,16,0.19355,159.75897,155.89644,-0.02418
+Test (1–2 holes),Beam theory,17,0.11980,627.45209,667.20575,0.06336
+Test (1–2 holes),GNN (message passing),17,0.06112,627.45209,635.97504,0.01358
+Test (1–2 holes),Node-wise MLP,17,0.07881,627.45209,635.73767,0.01321
+Test (1–2 holes),Beam theory,18,0.20806,145.71508,132.96844,-0.08748
+Test (1–2 holes),GNN (message passing),18,0.13721,145.71508,145.09111,-0.00428
+Test (1–2 holes),Node-wise MLP,18,0.15536,145.71508,138.62682,-0.04864
+Test (1–2 holes),Beam theory,19,0.13840,184.84230,182.58955,-0.01219
+Test (1–2 holes),GNN (message passing),19,0.09155,184.84230,183.15916,-0.00911
+Test (1–2 holes),Node-wise MLP,19,0.12887,184.84230,188.16992,0.01800
+Test (1–2 holes),Beam theory,20,0.10740,30.86274,28.34516,-0.08157
+Test (1–2 holes),GNN (message passing),20,0.09428,30.86274,31.32270,0.01490
+Test (1–2 holes),Node-wise MLP,20,0.10943,30.86274,31.41683,0.01795
+Test (1–2 holes),Beam theory,21,0.18910,292.52766,309.77127,0.05895
+Test (1–2 holes),GNN (message passing),21,0.09407,292.52766,296.38028,0.01317
+Test (1–2 holes),Node-wise MLP,21,0.13191,292.52766,294.94019,0.00825
+Test (1–2 holes),Beam theory,22,0.11941,116.55924,108.20455,-0.07168
+Test (1–2 holes),GNN (message passing),22,0.08314,116.55924,115.10928,-0.01244
+Test (1–2 holes),Node-wise MLP,22,0.08965,116.55924,111.90264,-0.03995
+Test (1–2 holes),Beam theory,23,0.30263,226.36627,215.84209,-0.04649
+Test (1–2 holes),GNN (message passing),23,0.16501,226.36627,223.62622,-0.01210
+Test (1–2 holes),Node-wise MLP,23,0.19755,226.36627,230.52124,0.01836
+Test (1–2 holes),Beam theory,24,0.08508,315.37386,329.76572,0.04563
+Test (1–2 holes),GNN (message passing),24,0.06423,315.37386,320.74615,0.01703
+Test (1–2 holes),Node-wise MLP,24,0.08837,315.37386,325.25470,0.03133
+Test (1–2 holes),Beam theory,25,0.19338,63.46486,58.94856,-0.07116
+Test (1–2 holes),GNN (message passing),25,0.10412,63.46486,64.12762,0.01044
+Test (1–2 holes),Node-wise MLP,25,0.14245,63.46486,62.68452,-0.01230
+Test (1–2 holes),Beam theory,26,0.21399,216.18005,190.90210,-0.11693
+Test (1–2 holes),GNN (message passing),26,0.15262,216.18005,193.24884,-0.10607
+Test (1–2 holes),Node-wise MLP,26,0.19204,216.18005,197.64621,-0.08573
+Test (1–2 holes),Beam theory,27,0.19510,149.67944,144.06541,-0.03751
+Test (1–2 holes),GNN (message passing),27,0.10727,149.67944,145.44746,-0.02827
+Test (1–2 holes),Node-wise MLP,27,0.13153,149.67944,150.04071,0.00241
+Test (1–2 holes),Beam theory,28,0.20808,42.95202,36.88430,-0.14127
+Test (1–2 holes),GNN (message passing),28,0.17429,42.95202,40.57954,-0.05524
+Test (1–2 holes),Node-wise MLP,28,0.21123,42.95202,38.37685,-0.10652
+Test (1–2 holes),Beam theory,29,0.31236,257.53644,257.96069,0.00165
+Test (1–2 holes),GNN (message passing),29,0.17553,257.53644,240.77699,-0.06508
+Test (1–2 holes),Node-wise MLP,29,0.23358,257.53644,239.31351,-0.07076
+Test (1–2 holes),Beam theory,30,0.17088,212.14034,205.21115,-0.03266
+Test (1–2 holes),GNN (message passing),30,0.11175,212.14034,205.02766,-0.03353
+Test (1–2 holes),Node-wise MLP,30,0.17082,212.14034,203.24368,-0.04194
+Test (1–2 holes),Beam theory,31,0.22299,126.61384,130.26056,0.02880
+Test (1–2 holes),GNN (message passing),31,0.13163,126.61384,127.67928,0.00841
+Test (1–2 holes),Node-wise MLP,31,0.16350,126.61384,128.73573,0.01676
+Test (1–2 holes),Beam theory,32,0.17444,502.16425,514.67462,0.02491
+Test (1–2 holes),GNN (message passing),32,0.08362,502.16425,508.57639,0.01277
+Test (1–2 holes),Node-wise MLP,32,0.11836,502.16425,508.49582,0.01261
+Test (1–2 holes),Beam theory,33,0.18032,430.61980,435.90018,0.01226
+Test (1–2 holes),GNN (message passing),33,0.09909,430.61980,422.02869,-0.01995
+Test (1–2 holes),Node-wise MLP,33,0.13287,430.61980,425.48407,-0.01193
+Test (1–2 holes),Beam theory,34,0.12994,241.90011,230.28581,-0.04801
+Test (1–2 holes),GNN (message passing),34,0.08833,241.90011,235.08034,-0.02819
+Test (1–2 holes),Node-wise MLP,34,0.09410,241.90011,238.46805,-0.01419
+Test (1–2 holes),Beam theory,35,0.17259,819.26051,860.36841,0.05018
+Test (1–2 holes),GNN (message passing),35,0.09306,819.26051,816.93488,-0.00284
+Test (1–2 holes),Node-wise MLP,35,0.11762,819.26051,824.21783,0.00605
+Test (1–2 holes),Beam theory,36,0.15213,130.86809,118.15903,-0.09711
+Test (1–2 holes),GNN (message passing),36,0.11416,130.86809,130.44398,-0.00324
+Test (1–2 holes),Node-wise MLP,36,0.13697,130.86809,123.99206,-0.05254
+Test (1–2 holes),Beam theory,37,0.22475,32.28505,31.40841,-0.02715
+Test (1–2 holes),GNN (message passing),37,0.14099,32.28505,32.50099,0.00669
+Test (1–2 holes),Node-wise MLP,37,0.18320,32.28505,32.72209,0.01354
+Test (1–2 holes),Beam theory,38,0.11735,59.00616,52.32005,-0.11331
+Test (1–2 holes),GNN (message passing),38,0.09970,59.00616,58.71465,-0.00494
+Test (1–2 holes),Node-wise MLP,38,0.13053,59.00616,57.06475,-0.03290
+Test (1–2 holes),Beam theory,39,0.19429,199.87154,189.61931,-0.05129
+Test (1–2 holes),GNN (message passing),39,0.10901,199.87154,197.18996,-0.01342
+Test (1–2 holes),Node-wise MLP,39,0.15526,199.87154,195.39490,-0.02240
+Test (1–2 holes),Beam theory,40,0.29231,226.51777,195.29817,-0.13782
+Test (1–2 holes),GNN (message passing),40,0.18344,226.51777,202.45483,-0.10623
+Test (1–2 holes),Node-wise MLP,40,0.23542,226.51777,214.72540,-0.05206
+Test (1–2 holes),Beam theory,41,0.12977,117.03704,110.38336,-0.05685
+Test (1–2 holes),GNN (message passing),41,0.08730,117.03704,117.67377,0.00544
+Test (1–2 holes),Node-wise MLP,41,0.09484,117.03704,117.62575,0.00503
+Test (1–2 holes),Beam theory,42,0.18010,104.56557,100.04350,-0.04325
+Test (1–2 holes),GNN (message passing),42,0.11575,104.56557,100.33564,-0.04045
+Test (1–2 holes),Node-wise MLP,42,0.13776,104.56557,100.67542,-0.03720
+Test (1–2 holes),Beam theory,43,0.12381,299.82703,298.58261,-0.00415
+Test (1–2 holes),GNN (message passing),43,0.07360,299.82703,303.39859,0.01191
+Test (1–2 holes),Node-wise MLP,43,0.10810,299.82703,306.01770,0.02065
+Test (1–2 holes),Beam theory,44,0.13354,184.99954,175.34401,-0.05219
+Test (1–2 holes),GNN (message passing),44,0.09172,184.99954,175.73126,-0.05010
+Test (1–2 holes),Node-wise MLP,44,0.11176,184.99954,172.82036,-0.06583
+Test (1–2 holes),Beam theory,45,0.26204,51.09344,47.09158,-0.07832
+Test (1–2 holes),GNN (message passing),45,0.17678,51.09344,50.41568,-0.01327
+Test (1–2 holes),Node-wise MLP,45,0.20880,51.09344,48.85088,-0.04389
+Test (1–2 holes),Beam theory,46,0.10297,230.21116,235.79355,0.02425
+Test (1–2 holes),GNN (message passing),46,0.06795,230.21116,225.96194,-0.01846
+Test (1–2 holes),Node-wise MLP,46,0.08614,230.21116,223.55571,-0.02891
+Test (1–2 holes),Beam theory,47,0.27599,252.38330,222.70824,-0.11758
+Test (1–2 holes),GNN (message passing),47,0.16577,252.38330,247.44714,-0.01956
+Test (1–2 holes),Node-wise MLP,47,0.20884,252.38330,236.36720,-0.06346
+Test (1–2 holes),Beam theory,48,0.23252,311.34467,284.15222,-0.08734
+Test (1–2 holes),GNN (message passing),48,0.14948,311.34467,301.18338,-0.03264
+Test (1–2 holes),Node-wise MLP,48,0.17248,311.34467,286.65103,-0.07931
+Test (1–2 holes),Beam theory,49,0.10016,48.93377,44.23492,-0.09602
+Test (1–2 holes),GNN (message passing),49,0.13511,48.93377,50.61674,0.03439
+Test (1–2 holes),Node-wise MLP,49,0.14750,48.93377,45.01258,-0.08013
+Test (1–2 holes),Beam theory,50,0.09097,230.69865,244.72893,0.06082
+Test (1–2 holes),GNN (message passing),50,0.05447,230.69865,234.03117,0.01445
+Test (1–2 holes),Node-wise MLP,50,0.06973,230.69865,239.53183,0.03829
+Test (1–2 holes),Beam theory,51,0.25395,145.91437,131.46512,-0.09903
+Test (1–2 holes),GNN (message passing),51,0.13193,145.91437,134.67206,-0.07705
+Test (1–2 holes),Node-wise MLP,51,0.18101,145.91437,135.13072,-0.07390
+Test (1–2 holes),Beam theory,52,0.27943,68.89078,27.37938,-0.60257
+Test (1–2 holes),GNN (message passing),52,0.19708,68.89078,70.08310,0.01731
+Test (1–2 holes),Node-wise MLP,52,0.26289,68.89078,57.13760,-0.17061
+Test (1–2 holes),Beam theory,53,0.19582,133.59932,133.24034,-0.00269
+Test (1–2 holes),GNN (message passing),53,0.10349,133.59932,131.88232,-0.01285
+Test (1–2 holes),Node-wise MLP,53,0.13608,133.59932,131.76457,-0.01373
+Test (1–2 holes),Beam theory,54,0.13233,142.63743,149.62564,0.04899
+Test (1–2 holes),GNN (message passing),54,0.07444,142.63743,141.05682,-0.01108
+Test (1–2 holes),Node-wise MLP,54,0.10376,142.63743,138.93384,-0.02597
+Test (1–2 holes),Beam theory,55,0.28365,128.87639,121.39002,-0.05809
+Test (1–2 holes),GNN (message passing),55,0.16104,128.87639,126.66106,-0.01719
+Test (1–2 holes),Node-wise MLP,55,0.20964,128.87639,126.57415,-0.01786
+Test (1–2 holes),Beam theory,56,0.11657,133.80026,134.73557,0.00699
+Test (1–2 holes),GNN (message passing),56,0.06600,133.80026,131.72014,-0.01555
+Test (1–2 holes),Node-wise MLP,56,0.10307,133.80026,131.24211,-0.01912
+Test (1–2 holes),Beam theory,57,0.34011,128.38096,127.36588,-0.00791
+Test (1–2 holes),GNN (message passing),57,0.18901,128.38096,127.63036,-0.00585
+Test (1–2 holes),Node-wise MLP,57,0.22334,128.38096,131.60136,0.02508
+Test (1–2 holes),Beam theory,58,0.19150,106.40641,100.69984,-0.05363
+Test (1–2 holes),GNN (message passing),58,0.11423,106.40641,104.70280,-0.01601
+Test (1–2 holes),Node-wise MLP,58,0.13601,106.40641,103.31419,-0.02906
+Test (1–2 holes),Beam theory,59,0.17862,55.37803,49.50738,-0.10601
+Test (1–2 holes),GNN (message passing),59,0.11101,55.37803,52.96120,-0.04364
+Test (1–2 holes),Node-wise MLP,59,0.14747,55.37803,51.79493,-0.06470
+Test (1–2 holes),Beam theory,60,0.33407,40.82626,27.85896,-0.31762
+Test (1–2 holes),GNN (message passing),60,0.23515,40.82626,33.20954,-0.18656
+Test (1–2 holes),Node-wise MLP,60,0.26520,40.82626,30.08681,-0.26305
+Test (1–2 holes),Beam theory,61,0.18271,71.91626,73.33728,0.01976
+Test (1–2 holes),GNN (message passing),61,0.09023,71.91626,72.15977,0.00339
+Test (1–2 holes),Node-wise MLP,61,0.12979,71.91626,73.71998,0.02508
+Test (1–2 holes),Beam theory,62,0.33292,96.21787,71.95750,-0.25214
+Test (1–2 holes),GNN (message passing),62,0.22154,96.21787,76.92973,-0.20046
+Test (1–2 holes),Node-wise MLP,62,0.27518,96.21787,79.03359,-0.17860
+Test (1–2 holes),Beam theory,63,0.25782,337.71594,321.01666,-0.04945
+Test (1–2 holes),GNN (message passing),63,0.14487,337.71594,336.90051,-0.00241
+Test (1–2 holes),Node-wise MLP,63,0.17681,337.71594,330.47318,-0.02145
+Test (1–2 holes),Beam theory,64,0.27394,55.11970,48.35575,-0.12271
+Test (1–2 holes),GNN (message passing),64,0.16896,55.11970,54.00807,-0.02017
+Test (1–2 holes),Node-wise MLP,64,0.20766,55.11970,53.13689,-0.03597
+Test (1–2 holes),Beam theory,65,0.22890,198.19527,204.75369,0.03309
+Test (1–2 holes),GNN (message passing),65,0.14837,198.19527,193.82762,-0.02204
+Test (1–2 holes),Node-wise MLP,65,0.18142,198.19527,195.49315,-0.01363
+Test (1–2 holes),Beam theory,66,0.15398,497.98598,514.88434,0.03393
+Test (1–2 holes),GNN (message passing),66,0.09486,497.98598,498.71323,0.00146
+Test (1–2 holes),Node-wise MLP,66,0.11712,497.98598,494.81516,-0.00637
+Test (1–2 holes),Beam theory,67,0.28851,84.92805,78.25232,-0.07860
+Test (1–2 holes),GNN (message passing),67,0.16809,84.92805,85.16279,0.00276
+Test (1–2 holes),Node-wise MLP,67,0.20119,84.92805,85.92615,0.01175
+Test (1–2 holes),Beam theory,68,0.17259,179.17658,165.19072,-0.07806
+Test (1–2 holes),GNN (message passing),68,0.10154,179.17658,181.72144,0.01420
+Test (1–2 holes),Node-wise MLP,68,0.13014,179.17658,177.67067,-0.00840
+Test (1–2 holes),Beam theory,69,0.14861,185.76047,184.27016,-0.00802
+Test (1–2 holes),GNN (message passing),69,0.08549,185.76047,183.70152,-0.01108
+Test (1–2 holes),Node-wise MLP,69,0.10578,185.76047,181.46416,-0.02313
+Test (1–2 holes),Beam theory,70,0.17795,172.64599,182.83501,0.05902
+Test (1–2 holes),GNN (message passing),70,0.11101,172.64599,176.70326,0.02350
+Test (1–2 holes),Node-wise MLP,70,0.15359,172.64599,178.46336,0.03370
+Test (1–2 holes),Beam theory,71,0.17932,26.93651,24.33162,-0.09671
+Test (1–2 holes),GNN (message passing),71,0.13833,26.93651,27.37735,0.01637
+Test (1–2 holes),Node-wise MLP,71,0.18241,26.93651,24.88665,-0.07610
+Test (1–2 holes),Beam theory,72,0.39715,89.97359,67.49834,-0.24980
+Test (1–2 holes),GNN (message passing),72,0.23030,89.97359,74.11861,-0.17622
+Test (1–2 holes),Node-wise MLP,72,0.28791,89.97359,69.51479,-0.22739
+Test (1–2 holes),Beam theory,73,0.32489,149.33653,136.75946,-0.08422
+Test (1–2 holes),GNN (message passing),73,0.21036,149.33653,126.90331,-0.15022
+Test (1–2 holes),Node-wise MLP,73,0.23129,149.33653,129.75755,-0.13111
+Test (1–2 holes),Beam theory,74,0.26652,56.00147,55.99693,-0.00008
+Test (1–2 holes),GNN (message passing),74,0.17124,56.00147,53.33345,-0.04764
+Test (1–2 holes),Node-wise MLP,74,0.20755,56.00147,53.68333,-0.04139
+Test (1–2 holes),Beam theory,75,0.37263,155.32153,143.38341,-0.07686
+Test (1–2 holes),GNN (message passing),75,0.25290,155.32153,147.18614,-0.05238
+Test (1–2 holes),Node-wise MLP,75,0.27546,155.32153,156.29541,0.00627
+Test (1–2 holes),Beam theory,76,0.09086,210.63429,210.93169,0.00141
+Test (1–2 holes),GNN (message passing),76,0.06158,210.63429,211.50661,0.00414
+Test (1–2 holes),Node-wise MLP,76,0.07228,210.63429,211.84764,0.00576
+Test (1–2 holes),Beam theory,77,0.10211,377.20815,380.48755,0.00869
+Test (1–2 holes),GNN (message passing),77,0.06990,377.20815,374.79056,-0.00641
+Test (1–2 holes),Node-wise MLP,77,0.08299,377.20815,372.82275,-0.01163
+Test (1–2 holes),Beam theory,78,0.20751,25.69652,14.21485,-0.44682
+Test (1–2 holes),GNN (message passing),78,0.19496,25.69652,30.49877,0.18688
+Test (1–2 holes),Node-wise MLP,78,0.20141,25.69652,19.50587,-0.24091
+Test (1–2 holes),Beam theory,79,0.13649,288.81841,274.50583,-0.04956
+Test (1–2 holes),GNN (message passing),79,0.08333,288.81841,285.91913,-0.01004
+Test (1–2 holes),Node-wise MLP,79,0.09351,288.81841,284.24353,-0.01584
+Test (1–2 holes),Beam theory,80,0.22588,364.40775,382.21503,0.04887
+Test (1–2 holes),GNN (message passing),80,0.12038,364.40775,377.43402,0.03575
+Test (1–2 holes),Node-wise MLP,80,0.16268,364.40775,382.57236,0.04985
+Test (1–2 holes),Beam theory,81,0.41143,123.90680,101.08813,-0.18416
+Test (1–2 holes),GNN (message passing),81,0.27937,123.90680,117.69228,-0.05015
+Test (1–2 holes),Node-wise MLP,81,0.31376,123.90680,111.47293,-0.10035
+Test (1–2 holes),Beam theory,82,0.11613,181.91470,190.56261,0.04754
+Test (1–2 holes),GNN (message passing),82,0.05772,181.91470,183.05704,0.00628
+Test (1–2 holes),Node-wise MLP,82,0.08444,181.91470,180.83481,-0.00594
+Test (1–2 holes),Beam theory,83,0.18269,113.25210,107.49042,-0.05087
+Test (1–2 holes),GNN (message passing),83,0.09379,113.25210,109.47559,-0.03335
+Test (1–2 holes),Node-wise MLP,83,0.14775,113.25210,113.54519,0.00259
+Test (1–2 holes),Beam theory,84,0.29446,141.32138,136.97841,-0.03073
+Test (1–2 holes),GNN (message passing),84,0.15583,141.32138,137.69327,-0.02567
+Test (1–2 holes),Node-wise MLP,84,0.20524,141.32138,142.20425,0.00625
+Test (1–2 holes),Beam theory,85,0.13646,149.22395,147.37764,-0.01237
+Test (1–2 holes),GNN (message passing),85,0.09201,149.22395,145.46297,-0.02520
+Test (1–2 holes),Node-wise MLP,85,0.13083,149.22395,142.37903,-0.04587
+Test (1–2 holes),Beam theory,86,0.29910,282.43017,294.64685,0.04326
+Test (1–2 holes),GNN (message passing),86,0.17220,282.43017,281.64117,-0.00279
+Test (1–2 holes),Node-wise MLP,86,0.21517,282.43017,287.57272,0.01821
+Test (1–2 holes),Beam theory,87,0.21719,173.77229,169.44539,-0.02490
+Test (1–2 holes),GNN (message passing),87,0.11339,173.77229,169.50932,-0.02453
+Test (1–2 holes),Node-wise MLP,87,0.15063,173.77229,174.07658,0.00175
+Test (1–2 holes),Beam theory,88,0.23886,185.72315,171.99321,-0.07393
+Test (1–2 holes),GNN (message passing),88,0.16539,185.72315,178.96747,-0.03638
+Test (1–2 holes),Node-wise MLP,88,0.20114,185.72315,187.87039,0.01156
+Test (1–2 holes),Beam theory,89,0.17785,277.56556,277.97458,0.00147
+Test (1–2 holes),GNN (message passing),89,0.10677,277.56556,279.51407,0.00702
+Test (1–2 holes),Node-wise MLP,89,0.11979,277.56556,284.85846,0.02627
+Test (1–2 holes),Beam theory,90,0.21707,72.62698,70.11235,-0.03462
+Test (1–2 holes),GNN (message passing),90,0.12000,72.62698,72.80449,0.00244
+Test (1–2 holes),Node-wise MLP,90,0.15665,72.62698,74.09031,0.02015
+Test (1–2 holes),Beam theory,91,0.19745,225.19296,219.27783,-0.02627
+Test (1–2 holes),GNN (message passing),91,0.09937,225.19296,224.54904,-0.00286
+Test (1–2 holes),Node-wise MLP,91,0.13924,225.19296,225.77219,0.00257
+Test (1–2 holes),Beam theory,92,0.15632,136.40883,132.55463,-0.02825
+Test (1–2 holes),GNN (message passing),92,0.08686,136.40883,134.51767,-0.01386
+Test (1–2 holes),Node-wise MLP,92,0.10297,136.40883,137.88699,0.01084
+Test (1–2 holes),Beam theory,93,0.25056,256.18717,239.16624,-0.06644
+Test (1–2 holes),GNN (message passing),93,0.12951,256.18717,253.80052,-0.00932
+Test (1–2 holes),Node-wise MLP,93,0.17870,256.18717,236.43880,-0.07709
+Test (1–2 holes),Beam theory,94,0.10118,193.11099,178.22095,-0.07711
+Test (1–2 holes),GNN (message passing),94,0.07073,193.11099,193.53880,0.00222
+Test (1–2 holes),Node-wise MLP,94,0.08847,193.11099,193.29079,0.00093
+Test (1–2 holes),Beam theory,95,0.32572,259.25358,231.96848,-0.10524
+Test (1–2 holes),GNN (message passing),95,0.19737,259.25358,231.29950,-0.10783
+Test (1–2 holes),Node-wise MLP,95,0.24034,259.25358,240.95419,-0.07058
+Test (1–2 holes),Beam theory,96,0.19581,101.92054,93.43137,-0.08329
+Test (1–2 holes),GNN (message passing),96,0.12669,101.92054,101.25691,-0.00651
+Test (1–2 holes),Node-wise MLP,96,0.17018,101.92054,102.71458,0.00779
+Test (1–2 holes),Beam theory,97,0.09486,411.03582,399.59796,-0.02783
+Test (1–2 holes),GNN (message passing),97,0.07683,411.03582,408.75980,-0.00554
+Test (1–2 holes),Node-wise MLP,97,0.09040,411.03582,400.37366,-0.02594
+Test (1–2 holes),Beam theory,98,0.10602,305.14087,321.63284,0.05405
+Test (1–2 holes),GNN (message passing),98,0.05819,305.14087,302.47507,-0.00874
+Test (1–2 holes),Node-wise MLP,98,0.07437,305.14087,303.85236,-0.00422
+Test (1–2 holes),Beam theory,99,0.14808,228.17714,207.98343,-0.08850
+Test (1–2 holes),GNN (message passing),99,0.09225,228.17714,222.87057,-0.02326
+Test (1–2 holes),Node-wise MLP,99,0.12632,228.17714,225.30257,-0.01260
+Out of distribution (3 holes),Beam theory,0,0.40362,70.52262,67.70908,-0.03990
+Out of distribution (3 holes),GNN (message passing),0,0.29343,70.52262,67.83486,-0.03811
+Out of distribution (3 holes),Node-wise MLP,0,0.31576,70.52262,67.71826,-0.03977
+Out of distribution (3 holes),Beam theory,1,0.23931,157.62431,149.38683,-0.05226
+Out of distribution (3 holes),GNN (message passing),1,0.14503,157.62431,147.34604,-0.06521
+Out of distribution (3 holes),Node-wise MLP,1,0.16984,157.62431,148.90009,-0.05535
+Out of distribution (3 holes),Beam theory,2,0.36637,407.14917,407.52667,0.00093
+Out of distribution (3 holes),GNN (message passing),2,0.23482,407.14917,388.86868,-0.04490
+Out of distribution (3 holes),Node-wise MLP,2,0.25865,407.14917,398.62820,-0.02093
+Out of distribution (3 holes),Beam theory,3,0.22385,191.71327,176.69724,-0.07833
+Out of distribution (3 holes),GNN (message passing),3,0.12454,191.71327,176.14383,-0.08121
+Out of distribution (3 holes),Node-wise MLP,3,0.16105,191.71327,175.81630,-0.08292
+Out of distribution (3 holes),Beam theory,4,0.22068,115.84022,106.79791,-0.07806
+Out of distribution (3 holes),GNN (message passing),4,0.13627,115.84022,108.25748,-0.06546
+Out of distribution (3 holes),Node-wise MLP,4,0.17220,115.84022,110.75463,-0.04390
+Out of distribution (3 holes),Beam theory,5,0.36301,89.71356,80.14627,-0.10664
+Out of distribution (3 holes),GNN (message passing),5,0.21662,89.71356,86.95541,-0.03074
+Out of distribution (3 holes),Node-wise MLP,5,0.25524,89.71356,86.96690,-0.03062
+Out of distribution (3 holes),Beam theory,6,0.20258,266.76864,277.59329,0.04058
+Out of distribution (3 holes),GNN (message passing),6,0.11571,266.76864,268.38046,0.00604
+Out of distribution (3 holes),Node-wise MLP,6,0.15673,266.76864,266.61838,-0.00056
+Out of distribution (3 holes),Beam theory,7,0.23151,24.91908,21.40802,-0.14090
+Out of distribution (3 holes),GNN (message passing),7,0.17728,24.91908,23.79264,-0.04520
+Out of distribution (3 holes),Node-wise MLP,7,0.18424,24.91908,22.53416,-0.09571
+Out of distribution (3 holes),Beam theory,8,0.29824,195.05683,190.14946,-0.02516
+Out of distribution (3 holes),GNN (message passing),8,0.19464,195.05683,188.31993,-0.03454
+Out of distribution (3 holes),Node-wise MLP,8,0.22742,195.05683,188.80762,-0.03204
+Out of distribution (3 holes),Beam theory,9,0.34785,97.53046,74.82635,-0.23279
+Out of distribution (3 holes),GNN (message passing),9,0.23287,97.53046,83.47839,-0.14408
+Out of distribution (3 holes),Node-wise MLP,9,0.26681,97.53046,82.17513,-0.15744
+Out of distribution (3 holes),Beam theory,10,0.36988,117.06877,102.48308,-0.12459
+Out of distribution (3 holes),GNN (message passing),10,0.25226,117.06877,110.55901,-0.05561
+Out of distribution (3 holes),Node-wise MLP,10,0.27849,117.06877,109.66766,-0.06322
+Out of distribution (3 holes),Beam theory,11,0.20775,351.15769,354.21838,0.00872
+Out of distribution (3 holes),GNN (message passing),11,0.12793,351.15769,346.54721,-0.01313
+Out of distribution (3 holes),Node-wise MLP,11,0.15934,351.15769,340.90689,-0.02919
+Out of distribution (3 holes),Beam theory,12,0.24247,29.59811,25.92909,-0.12396
+Out of distribution (3 holes),GNN (message passing),12,0.14936,29.59811,30.20017,0.02034
+Out of distribution (3 holes),Node-wise MLP,12,0.18580,29.59811,26.34253,-0.10999
+Out of distribution (3 holes),Beam theory,13,0.40767,98.93045,97.51343,-0.01432
+Out of distribution (3 holes),GNN (message passing),13,0.26089,98.93045,95.50612,-0.03461
+Out of distribution (3 holes),Node-wise MLP,13,0.28543,98.93045,99.80001,0.00879
+Out of distribution (3 holes),Beam theory,14,0.16935,200.00476,187.45975,-0.06272
+Out of distribution (3 holes),GNN (message passing),14,0.10746,200.00476,194.94417,-0.02530
+Out of distribution (3 holes),Node-wise MLP,14,0.11712,200.00476,201.17528,0.00585
+Out of distribution (3 holes),Beam theory,15,0.30475,191.30409,179.52817,-0.06156
+Out of distribution (3 holes),GNN (message passing),15,0.20491,191.30409,182.87326,-0.04407
+Out of distribution (3 holes),Node-wise MLP,15,0.22521,191.30409,185.60242,-0.02980
+Out of distribution (3 holes),Beam theory,16,0.42791,179.07988,151.35301,-0.15483
+Out of distribution (3 holes),GNN (message passing),16,0.30460,179.07988,153.59433,-0.14231
+Out of distribution (3 holes),Node-wise MLP,16,0.32165,179.07988,163.70750,-0.08584
+Out of distribution (3 holes),Beam theory,17,0.45385,208.62235,175.14648,-0.16046
+Out of distribution (3 holes),GNN (message passing),17,0.32098,208.62235,187.89880,-0.09934
+Out of distribution (3 holes),Node-wise MLP,17,0.35100,208.62235,192.01195,-0.07962
+Out of distribution (3 holes),Beam theory,18,0.19866,350.59089,360.21240,0.02744
+Out of distribution (3 holes),GNN (message passing),18,0.10969,350.59089,344.37100,-0.01774
+Out of distribution (3 holes),Node-wise MLP,18,0.15958,350.59089,342.83380,-0.02213
+Out of distribution (3 holes),Beam theory,19,0.37686,104.74808,82.77226,-0.20980
+Out of distribution (3 holes),GNN (message passing),19,0.24348,104.74808,86.44464,-0.17474
+Out of distribution (3 holes),Node-wise MLP,19,0.28155,104.74808,85.53201,-0.18345
+Out of distribution (3 holes),Beam theory,20,0.19107,81.78574,83.97961,0.02682
+Out of distribution (3 holes),GNN (message passing),20,0.14229,81.78574,79.85747,-0.02358
+Out of distribution (3 holes),Node-wise MLP,20,0.15050,81.78574,80.84066,-0.01156
+Out of distribution (3 holes),Beam theory,21,0.34793,43.53122,17.74105,-0.59245
+Out of distribution (3 holes),GNN (message passing),21,0.20932,43.53122,43.89943,0.00846
+Out of distribution (3 holes),Node-wise MLP,21,0.26684,43.53122,33.34024,-0.23411
+Out of distribution (3 holes),Beam theory,22,0.30793,127.49543,112.87305,-0.11469
+Out of distribution (3 holes),GNN (message passing),22,0.19054,127.49543,114.43098,-0.10247
+Out of distribution (3 holes),Node-wise MLP,22,0.22729,127.49543,120.60247,-0.05406
+Out of distribution (3 holes),Beam theory,23,0.26624,65.54343,53.31416,-0.18658
+Out of distribution (3 holes),GNN (message passing),23,0.16802,65.54343,58.54669,-0.10675
+Out of distribution (3 holes),Node-wise MLP,23,0.20617,65.54343,58.92294,-0.10101
+Out of distribution (3 holes),Beam theory,24,0.24484,190.12570,199.03346,0.04685
+Out of distribution (3 holes),GNN (message passing),24,0.16928,190.12570,185.37561,-0.02498
+Out of distribution (3 holes),Node-wise MLP,24,0.19025,190.12570,184.88110,-0.02758
+Out of distribution (3 holes),Beam theory,25,0.27455,49.73993,44.90575,-0.09719
+Out of distribution (3 holes),GNN (message passing),25,0.21844,49.73993,48.78031,-0.01929
+Out of distribution (3 holes),Node-wise MLP,25,0.24610,49.73993,45.81073,-0.07899
+Out of distribution (3 holes),Beam theory,26,0.36847,86.07696,44.41745,-0.48398
+Out of distribution (3 holes),GNN (message passing),26,0.20362,86.07696,90.59193,0.05245
+Out of distribution (3 holes),Node-wise MLP,26,0.25442,86.07696,65.13258,-0.24332
+Out of distribution (3 holes),Beam theory,27,0.22119,148.07839,139.57893,-0.05740
+Out of distribution (3 holes),GNN (message passing),27,0.14302,148.07839,159.16747,0.07489
+Out of distribution (3 holes),Node-wise MLP,27,0.19109,148.07839,138.12932,-0.06719
+Out of distribution (3 holes),Beam theory,28,0.18870,432.42081,418.77991,-0.03155
+Out of distribution (3 holes),GNN (message passing),28,0.11216,432.42081,407.53168,-0.05756
+Out of distribution (3 holes),Node-wise MLP,28,0.14725,432.42081,411.95679,-0.04732
+Out of distribution (3 holes),Beam theory,29,0.35653,206.12508,176.59819,-0.14325
+Out of distribution (3 holes),GNN (message passing),29,0.20842,206.12508,201.10248,-0.02437
+Out of distribution (3 holes),Node-wise MLP,29,0.24128,206.12508,191.47815,-0.07106
+Out of distribution (3 holes),Beam theory,30,0.37178,428.30329,406.05643,-0.05194
+Out of distribution (3 holes),GNN (message passing),30,0.24623,428.30329,396.73047,-0.07372
+Out of distribution (3 holes),Node-wise MLP,30,0.28556,428.30329,398.96161,-0.06851
+Out of distribution (3 holes),Beam theory,31,0.24728,64.48478,58.39549,-0.09443
+Out of distribution (3 holes),GNN (message passing),31,0.14786,64.48478,61.22509,-0.05055
+Out of distribution (3 holes),Node-wise MLP,31,0.18637,64.48478,60.49504,-0.06187
+Out of distribution (3 holes),Beam theory,32,0.40340,80.70218,53.23335,-0.34037
+Out of distribution (3 holes),GNN (message passing),32,0.24755,80.70218,84.91567,0.05221
+Out of distribution (3 holes),Node-wise MLP,32,0.30691,80.70218,54.92959,-0.31935
+Out of distribution (3 holes),Beam theory,33,0.32717,271.32612,267.52985,-0.01399
+Out of distribution (3 holes),GNN (message passing),33,0.20083,271.32612,262.84863,-0.03124
+Out of distribution (3 holes),Node-wise MLP,33,0.24811,271.32612,264.57144,-0.02490
+Out of distribution (3 holes),Beam theory,34,0.28883,204.77807,186.56206,-0.08895
+Out of distribution (3 holes),GNN (message passing),34,0.16501,204.77807,187.97836,-0.08204
+Out of distribution (3 holes),Node-wise MLP,34,0.21169,204.77807,194.95879,-0.04795
+Out of distribution (3 holes),Beam theory,35,0.45308,213.63185,144.80531,-0.32217
+Out of distribution (3 holes),GNN (message passing),35,0.32667,213.63185,162.13988,-0.24103
+Out of distribution (3 holes),Node-wise MLP,35,0.35983,213.63185,160.15575,-0.25032
+Out of distribution (3 holes),Beam theory,36,0.35024,58.64844,43.61563,-0.25632
+Out of distribution (3 holes),GNN (message passing),36,0.25043,58.64844,52.03984,-0.11268
+Out of distribution (3 holes),Node-wise MLP,36,0.29209,58.64844,45.97688,-0.21606
+Out of distribution (3 holes),Beam theory,37,0.28980,233.33479,204.64012,-0.12298
+Out of distribution (3 holes),GNN (message passing),37,0.17425,233.33479,213.79108,-0.08376
+Out of distribution (3 holes),Node-wise MLP,37,0.20031,233.33479,216.29730,-0.07302
+Out of distribution (3 holes),Beam theory,38,0.21357,222.96146,192.46770,-0.13677
+Out of distribution (3 holes),GNN (message passing),38,0.15475,222.96146,207.79436,-0.06803
+Out of distribution (3 holes),Node-wise MLP,38,0.16836,222.96146,202.95151,-0.08975
+Out of distribution (3 holes),Beam theory,39,0.35342,180.15386,171.40506,-0.04856
+Out of distribution (3 holes),GNN (message passing),39,0.21402,180.15386,174.40466,-0.03191
+Out of distribution (3 holes),Node-wise MLP,39,0.25758,180.15386,173.44565,-0.03724
+Out of distribution (3 holes),Beam theory,40,0.25755,199.69415,185.19157,-0.07262
+Out of distribution (3 holes),GNN (message passing),40,0.14644,199.69415,197.21765,-0.01240
+Out of distribution (3 holes),Node-wise MLP,40,0.19122,199.69415,200.45996,0.00383
+Out of distribution (3 holes),Beam theory,41,0.44276,38.26940,21.76604,-0.43124
+Out of distribution (3 holes),GNN (message passing),41,0.32201,38.26940,31.18390,-0.18515
+Out of distribution (3 holes),Node-wise MLP,41,0.36303,38.26940,23.06269,-0.39736
+Out of distribution (3 holes),Beam theory,42,0.21187,139.48926,141.06679,0.01131
+Out of distribution (3 holes),GNN (message passing),42,0.12258,139.48926,137.97354,-0.01087
+Out of distribution (3 holes),Node-wise MLP,42,0.17015,139.48926,136.54793,-0.02109
+Out of distribution (3 holes),Beam theory,43,0.29836,194.58711,164.13596,-0.15649
+Out of distribution (3 holes),GNN (message passing),43,0.18554,194.58711,178.64882,-0.08191
+Out of distribution (3 holes),Node-wise MLP,43,0.21911,194.58711,179.53793,-0.07734
+Out of distribution (3 holes),Beam theory,44,0.28119,106.21062,106.22684,0.00015
+Out of distribution (3 holes),GNN (message passing),44,0.16843,106.21062,107.26666,0.00994
+Out of distribution (3 holes),Node-wise MLP,44,0.18493,106.21062,110.94829,0.04461
+Out of distribution (3 holes),Beam theory,45,0.34793,246.13220,246.75909,0.00255
+Out of distribution (3 holes),GNN (message passing),45,0.25890,246.13220,243.43973,-0.01094
+Out of distribution (3 holes),Node-wise MLP,45,0.28182,246.13220,242.90364,-0.01312
+Out of distribution (3 holes),Beam theory,46,0.19911,420.40069,423.82959,0.00816
+Out of distribution (3 holes),GNN (message passing),46,0.11188,420.40069,411.88132,-0.02026
+Out of distribution (3 holes),Node-wise MLP,46,0.14429,420.40069,413.85226,-0.01558
+Out of distribution (3 holes),Beam theory,47,0.34337,230.02050,189.82030,-0.17477
+Out of distribution (3 holes),GNN (message passing),47,0.22543,230.02050,205.53355,-0.10646
+Out of distribution (3 holes),Node-wise MLP,47,0.24993,230.02050,212.67050,-0.07543
+Out of distribution (3 holes),Beam theory,48,0.20505,432.93961,457.98520,0.05785
+Out of distribution (3 holes),GNN (message passing),48,0.12495,432.93961,427.68005,-0.01215
+Out of distribution (3 holes),Node-wise MLP,48,0.14931,432.93961,431.25848,-0.00388
+Out of distribution (3 holes),Beam theory,49,0.20192,204.92448,169.89977,-0.17092
+Out of distribution (3 holes),GNN (message passing),49,0.15053,204.92448,188.80414,-0.07866
+Out of distribution (3 holes),Node-wise MLP,49,0.16889,204.92448,185.98151,-0.09244
+Out of distribution (3 holes),Beam theory,50,0.30486,119.42749,118.00927,-0.01188
+Out of distribution (3 holes),GNN (message passing),50,0.17514,119.42749,115.86778,-0.02981
+Out of distribution (3 holes),Node-wise MLP,50,0.21596,119.42749,119.03015,-0.00333
+Out of distribution (3 holes),Beam theory,51,0.30848,252.01670,251.01431,-0.00398
+Out of distribution (3 holes),GNN (message passing),51,0.18850,252.01670,236.34830,-0.06217
+Out of distribution (3 holes),Node-wise MLP,51,0.22355,252.01670,236.84521,-0.06020
+Out of distribution (3 holes),Beam theory,52,0.28949,202.44668,193.37187,-0.04483
+Out of distribution (3 holes),GNN (message passing),52,0.15660,202.44668,200.66357,-0.00881
+Out of distribution (3 holes),Node-wise MLP,52,0.20559,202.44668,203.53860,0.00539
+Out of distribution (3 holes),Beam theory,53,0.23516,248.80362,230.67297,-0.07287
+Out of distribution (3 holes),GNN (message passing),53,0.12986,248.80362,242.10255,-0.02693
+Out of distribution (3 holes),Node-wise MLP,53,0.16204,248.80362,243.52843,-0.02120
+Out of distribution (3 holes),Beam theory,54,0.32604,27.28618,21.16101,-0.22448
+Out of distribution (3 holes),GNN (message passing),54,0.22686,27.28618,23.05041,-0.15524
+Out of distribution (3 holes),Node-wise MLP,54,0.28905,27.28618,22.03362,-0.19250
+Out of distribution (3 holes),Beam theory,55,0.19000,167.45659,157.68436,-0.05836
+Out of distribution (3 holes),GNN (message passing),55,0.12114,167.45659,164.02837,-0.02047
+Out of distribution (3 holes),Node-wise MLP,55,0.15344,167.45659,161.65669,-0.03464
+Out of distribution (3 holes),Beam theory,56,0.29629,105.88277,79.68404,-0.24743
+Out of distribution (3 holes),GNN (message passing),56,0.24331,105.88277,90.64368,-0.14392
+Out of distribution (3 holes),Node-wise MLP,56,0.25927,105.88277,81.30540,-0.23212
+Out of distribution (3 holes),Beam theory,57,0.31288,48.37438,31.45750,-0.34971
+Out of distribution (3 holes),GNN (message passing),57,0.18853,48.37438,57.90070,0.19693
+Out of distribution (3 holes),Node-wise MLP,57,0.25704,48.37438,43.70186,-0.09659
+Out of distribution (3 holes),Beam theory,58,0.27635,155.82109,141.80678,-0.08994
+Out of distribution (3 holes),GNN (message passing),58,0.16708,155.82109,149.35997,-0.04147
+Out of distribution (3 holes),Node-wise MLP,58,0.20022,155.82109,150.61563,-0.03341
+Out of distribution (3 holes),Beam theory,59,0.25595,168.94735,174.99135,0.03577
+Out of distribution (3 holes),GNN (message passing),59,0.13974,168.94735,168.45026,-0.00294
+Out of distribution (3 holes),Node-wise MLP,59,0.17944,168.94735,167.98506,-0.00570
+Out of distribution (3 holes),Beam theory,60,0.15346,537.22619,548.15033,0.02033
+Out of distribution (3 holes),GNN (message passing),60,0.09662,537.22619,539.05530,0.00340
+Out of distribution (3 holes),Node-wise MLP,60,0.11284,537.22619,534.14117,-0.00574
+Out of distribution (3 holes),Beam theory,61,0.37815,343.17305,315.31982,-0.08116
+Out of distribution (3 holes),GNN (message passing),61,0.23194,343.17305,320.74161,-0.06536
+Out of distribution (3 holes),Node-wise MLP,61,0.26390,343.17305,326.78854,-0.04774
+Out of distribution (3 holes),Beam theory,62,0.31323,517.78491,535.70410,0.03461
+Out of distribution (3 holes),GNN (message passing),62,0.20262,517.78491,519.38464,0.00309
+Out of distribution (3 holes),Node-wise MLP,62,0.22869,517.78491,522.38678,0.00889
+Out of distribution (3 holes),Beam theory,63,0.28718,257.00490,274.77121,0.06913
+Out of distribution (3 holes),GNN (message passing),63,0.18968,257.00490,258.63300,0.00633
+Out of distribution (3 holes),Node-wise MLP,63,0.21506,257.00490,254.12631,-0.01120
+Out of distribution (3 holes),Beam theory,64,0.32295,115.47212,104.71723,-0.09314
+Out of distribution (3 holes),GNN (message passing),64,0.18527,115.47212,96.97755,-0.16016
+Out of distribution (3 holes),Node-wise MLP,64,0.25285,115.47212,96.87965,-0.16101
+Out of distribution (3 holes),Beam theory,65,0.27837,144.48841,144.51236,0.00017
+Out of distribution (3 holes),GNN (message passing),65,0.15716,144.48841,147.56543,0.02130
+Out of distribution (3 holes),Node-wise MLP,65,0.20917,144.48841,153.40930,0.06174
+Out of distribution (3 holes),Beam theory,66,0.35139,284.78083,286.42178,0.00576
+Out of distribution (3 holes),GNN (message passing),66,0.22590,284.78083,287.32346,0.00893
+Out of distribution (3 holes),Node-wise MLP,66,0.26041,284.78083,294.25003,0.03325
+Out of distribution (3 holes),Beam theory,67,0.35901,119.21920,111.01818,-0.06879
+Out of distribution (3 holes),GNN (message passing),67,0.22414,119.21920,115.83286,-0.02840
+Out of distribution (3 holes),Node-wise MLP,67,0.25872,119.21920,116.01697,-0.02686
+Out of distribution (3 holes),Beam theory,68,0.14654,97.53171,90.95322,-0.06745
+Out of distribution (3 holes),GNN (message passing),68,0.11125,97.53171,94.39542,-0.03216
+Out of distribution (3 holes),Node-wise MLP,68,0.11442,97.53171,94.10970,-0.03509
+Out of distribution (3 holes),Beam theory,69,0.30314,317.86816,328.35852,0.03300
+Out of distribution (3 holes),GNN (message passing),69,0.18485,317.86816,320.11526,0.00707
+Out of distribution (3 holes),Node-wise MLP,69,0.23056,317.86816,322.18460,0.01358
+Out of distribution (3 holes),Beam theory,70,0.29447,419.09256,393.86453,-0.06020
+Out of distribution (3 holes),GNN (message passing),70,0.17597,419.09256,385.70953,-0.07966
+Out of distribution (3 holes),Node-wise MLP,70,0.21479,419.09256,392.23087,-0.06409
+Out of distribution (3 holes),Beam theory,71,0.27005,266.01048,248.09906,-0.06733
+Out of distribution (3 holes),GNN (message passing),71,0.16030,266.01048,234.89490,-0.11697
+Out of distribution (3 holes),Node-wise MLP,71,0.21385,266.01048,234.13641,-0.11982
+Out of distribution (3 holes),Beam theory,72,0.29188,86.56708,72.73045,-0.15984
+Out of distribution (3 holes),GNN (message passing),72,0.17911,86.56708,72.37283,-0.16397
+Out of distribution (3 holes),Node-wise MLP,72,0.22510,86.56708,71.52872,-0.17372
+Out of distribution (3 holes),Beam theory,73,0.19496,271.13653,270.74551,-0.00144
+Out of distribution (3 holes),GNN (message passing),73,0.12268,271.13653,261.29956,-0.03628
+Out of distribution (3 holes),Node-wise MLP,73,0.14883,271.13653,256.76794,-0.05299
+Out of distribution (3 holes),Beam theory,74,0.33309,57.73518,51.19443,-0.11329
+Out of distribution (3 holes),GNN (message passing),74,0.19461,57.73518,60.10859,0.04111
+Out of distribution (3 holes),Node-wise MLP,74,0.23346,57.73518,56.69310,-0.01805
+Out of distribution (3 holes),Beam theory,75,0.32268,443.89145,453.20490,0.02098
+Out of distribution (3 holes),GNN (message passing),75,0.19471,443.89145,440.43518,-0.00779
+Out of distribution (3 holes),Node-wise MLP,75,0.22810,443.89145,448.47253,0.01032
+Out of distribution (3 holes),Beam theory,76,0.26435,79.06807,69.76614,-0.11764
+Out of distribution (3 holes),GNN (message passing),76,0.20538,79.06807,76.70303,-0.02991
+Out of distribution (3 holes),Node-wise MLP,76,0.23149,79.06807,71.81111,-0.09178
+Out of distribution (3 holes),Beam theory,77,0.22468,146.16647,146.39973,0.00160
+Out of distribution (3 holes),GNN (message passing),77,0.13210,146.16647,141.28185,-0.03342
+Out of distribution (3 holes),Node-wise MLP,77,0.15022,146.16647,146.52525,0.00245
+Out of distribution (3 holes),Beam theory,78,0.23142,284.67287,280.98468,-0.01296
+Out of distribution (3 holes),GNN (message passing),78,0.13014,284.67287,280.59717,-0.01432
+Out of distribution (3 holes),Node-wise MLP,78,0.15135,284.67287,293.04739,0.02942
+Out of distribution (3 holes),Beam theory,79,0.47767,155.61437,115.32251,-0.25892
+Out of distribution (3 holes),GNN (message passing),79,0.31408,155.61437,131.13051,-0.15734
+Out of distribution (3 holes),Node-wise MLP,79,0.36683,155.61437,125.92735,-0.19077
+Out of distribution (3 holes),Beam theory,80,0.33870,212.30085,212.49069,0.00089
+Out of distribution (3 holes),GNN (message passing),80,0.22477,212.30085,213.58728,0.00606
+Out of distribution (3 holes),Node-wise MLP,80,0.24818,212.30085,220.39705,0.03814
+Out of distribution (3 holes),Beam theory,81,0.42332,151.84528,95.00061,-0.37436
+Out of distribution (3 holes),GNN (message passing),81,0.28069,151.84528,104.76260,-0.31007
+Out of distribution (3 holes),Node-wise MLP,81,0.31040,151.84528,97.54395,-0.35761
+Out of distribution (3 holes),Beam theory,82,0.18690,218.15966,199.86328,-0.08387
+Out of distribution (3 holes),GNN (message passing),82,0.13971,218.15966,206.83783,-0.05190
+Out of distribution (3 holes),Node-wise MLP,82,0.14554,218.15966,207.39488,-0.04934
+Out of distribution (3 holes),Beam theory,83,0.32196,371.08960,349.28140,-0.05877
+Out of distribution (3 holes),GNN (message passing),83,0.19983,371.08960,344.54733,-0.07153
+Out of distribution (3 holes),Node-wise MLP,83,0.22972,371.08960,345.17340,-0.06984
+Out of distribution (3 holes),Beam theory,84,0.39127,313.82891,298.40930,-0.04913
+Out of distribution (3 holes),GNN (message passing),84,0.26199,313.82891,292.04987,-0.06940
+Out of distribution (3 holes),Node-wise MLP,84,0.29824,313.82891,299.23648,-0.04650
+Out of distribution (3 holes),Beam theory,85,0.31838,124.05248,109.42988,-0.11787
+Out of distribution (3 holes),GNN (message passing),85,0.21343,124.05248,117.00424,-0.05682
+Out of distribution (3 holes),Node-wise MLP,85,0.23345,124.05248,115.62683,-0.06792
+Out of distribution (3 holes),Beam theory,86,0.29424,70.62260,66.86154,-0.05326
+Out of distribution (3 holes),GNN (message passing),86,0.17357,70.62260,69.56332,-0.01500
+Out of distribution (3 holes),Node-wise MLP,86,0.22410,70.62260,68.13607,-0.03521
+Out of distribution (3 holes),Beam theory,87,0.45181,269.81398,175.80469,-0.34842
+Out of distribution (3 holes),GNN (message passing),87,0.33115,269.81398,193.38594,-0.28326
+Out of distribution (3 holes),Node-wise MLP,87,0.37681,269.81398,192.54111,-0.28639
+Out of distribution (3 holes),Beam theory,88,0.25958,364.59006,359.98184,-0.01264
+Out of distribution (3 holes),GNN (message passing),88,0.14140,364.59006,353.13452,-0.03142
+Out of distribution (3 holes),Node-wise MLP,88,0.18481,364.59006,365.69199,0.00302
+Out of distribution (3 holes),Beam theory,89,0.19433,233.70508,219.92128,-0.05898
+Out of distribution (3 holes),GNN (message passing),89,0.12705,233.70508,229.98337,-0.01592
+Out of distribution (3 holes),Node-wise MLP,89,0.14397,233.70508,230.66623,-0.01300
+Out of distribution (3 holes),Beam theory,90,0.25059,123.35490,106.73460,-0.13474
+Out of distribution (3 holes),GNN (message passing),90,0.15621,123.35490,119.41954,-0.03190
+Out of distribution (3 holes),Node-wise MLP,90,0.19179,123.35490,113.97098,-0.07607
+Out of distribution (3 holes),Beam theory,91,0.31863,441.24966,448.06458,0.01544
+Out of distribution (3 holes),GNN (message passing),91,0.17509,441.24966,430.75201,-0.02379
+Out of distribution (3 holes),Node-wise MLP,91,0.20897,441.24966,443.02863,0.00403
+Out of distribution (3 holes),Beam theory,92,0.37840,234.09889,206.15146,-0.11938
+Out of distribution (3 holes),GNN (message passing),92,0.25220,234.09889,220.18312,-0.05944
+Out of distribution (3 holes),Node-wise MLP,92,0.26582,234.09889,226.27275,-0.03343
+Out of distribution (3 holes),Beam theory,93,0.34366,30.94808,20.57716,-0.33511
+Out of distribution (3 holes),GNN (message passing),93,0.27182,30.94808,33.95694,0.09722
+Out of distribution (3 holes),Node-wise MLP,93,0.31647,30.94808,21.62466,-0.30126
+Out of distribution (3 holes),Beam theory,94,0.30197,354.88444,355.38440,0.00141
+Out of distribution (3 holes),GNN (message passing),94,0.19817,354.88444,342.91946,-0.03372
+Out of distribution (3 holes),Node-wise MLP,94,0.23930,354.88444,339.93881,-0.04211
+Out of distribution (3 holes),Beam theory,95,0.47660,281.36944,221.44550,-0.21297
+Out of distribution (3 holes),GNN (message passing),95,0.33528,281.36944,230.18279,-0.18192
+Out of distribution (3 holes),Node-wise MLP,95,0.36725,281.36944,238.24825,-0.15325
+Out of distribution (3 holes),Beam theory,96,0.29280,152.91618,128.84866,-0.15739
+Out of distribution (3 holes),GNN (message passing),96,0.20464,152.91618,144.78748,-0.05316
+Out of distribution (3 holes),Node-wise MLP,96,0.22723,152.91618,137.72926,-0.09932
+Out of distribution (3 holes),Beam theory,97,0.38925,81.96101,77.89568,-0.04960
+Out of distribution (3 holes),GNN (message passing),97,0.26508,81.96101,81.28506,-0.00825
+Out of distribution (3 holes),Node-wise MLP,97,0.29266,81.96101,82.70813,0.00912
+Out of distribution (3 holes),Beam theory,98,0.37112,105.50625,89.13605,-0.15516
+Out of distribution (3 holes),GNN (message passing),98,0.23502,105.50625,96.24131,-0.08781
+Out of distribution (3 holes),Node-wise MLP,98,0.28257,105.50625,82.43846,-0.21864
+Out of distribution (3 holes),Beam theory,99,0.30483,364.45548,355.11206,-0.02564
+Out of distribution (3 holes),GNN (message passing),99,0.15406,364.45548,369.63251,0.01420
+Out of distribution (3 holes),Node-wise MLP,99,0.19232,364.45548,381.45154,0.04663
